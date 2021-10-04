@@ -4,4 +4,4 @@ Tugas Chapter-9
 # Implementasi-Firebase
 # How To Read
 Go to Wiki GitHub
-  Read Tugas;
+Klik Pages -> TTD Technical Design Document -> Read Tugas TTD
